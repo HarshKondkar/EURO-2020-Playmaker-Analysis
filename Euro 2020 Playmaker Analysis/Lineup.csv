@@ -1,0 +1,2208 @@
+match_id,date,time,team_name,home_away,jersey_no,player_name,start_status
+027b11df,"Friday June 18, 2021",20:00,England,h,1,Jordan Pickford,Start
+027b11df,"Friday June 18, 2021",20:00,England,h,3,Luke Shaw,Start
+027b11df,"Friday June 18, 2021",20:00,England,h,4,Declan Rice,Start
+027b11df,"Friday June 18, 2021",20:00,England,h,5,John Stones,Start
+027b11df,"Friday June 18, 2021",20:00,England,h,9,Harry Kane,Start
+027b11df,"Friday June 18, 2021",20:00,England,h,10,Raheem Sterling,Start
+027b11df,"Friday June 18, 2021",20:00,England,h,14,Kalvin Phillips,Start
+027b11df,"Friday June 18, 2021",20:00,England,h,15,Tyrone Mings,Start
+027b11df,"Friday June 18, 2021",20:00,England,h,19,Mason Mount,Start
+027b11df,"Friday June 18, 2021",20:00,England,h,20,Phil Foden,Start
+027b11df,"Friday June 18, 2021",20:00,England,h,24,Reece James,Start
+027b11df,"Friday June 18, 2021",20:00,England,h,13,Aaron Ramsdale,Bench
+027b11df,"Friday June 18, 2021",20:00,England,h,23,Sam Johnstone,Bench
+027b11df,"Friday June 18, 2021",20:00,England,h,6,Harry Maguire,Bench
+027b11df,"Friday June 18, 2021",20:00,England,h,7,Jack Grealish,Bench
+027b11df,"Friday June 18, 2021",20:00,England,h,8,Jordan Henderson,Bench
+027b11df,"Friday June 18, 2021",20:00,England,h,11,Marcus Rashford,Bench
+027b11df,"Friday June 18, 2021",20:00,England,h,12,Kieran Trippier,Bench
+027b11df,"Friday June 18, 2021",20:00,England,h,16,Conor Coady,Bench
+027b11df,"Friday June 18, 2021",20:00,England,h,17,Jadon Sancho,Bench
+027b11df,"Friday June 18, 2021",20:00,England,h,18,Dominic Calvert-Lewin,Bench
+027b11df,"Friday June 18, 2021",20:00,England,h,21,Ben Chilwell,Bench
+027b11df,"Friday June 18, 2021",20:00,England,h,26,Jude Bellingham,Bench
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,1,David Marshall,Start
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,2,Stephen O'Donnell,Start
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,3,Andrew Robertson,Start
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,4,Scott McTominay,Start
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,5,Grant Hanley,Start
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,6,Kieran Tierney,Start
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,7,John McGinn,Start
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,8,Callum McGregor,Start
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,9,Lyndon Dykes,Start
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,10,Che Adams,Start
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,23,Billy Gilmour,Start
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,12,Craig Gordon,Bench
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,21,Jon McLaughlin,Bench
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,11,Ryan Christie,Bench
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,14,John Fleck,Bench
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,16,Liam Cooper,Bench
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,17,Stuart Armstrong,Bench
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,19,Kevin Nisbet,Bench
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,20,Ryan Fraser,Bench
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,22,Nathan Patterson,Bench
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,24,Jack Hendry,Bench
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,25,James Forrest,Bench
+027b11df,"Friday June 18, 2021",20:00,Scotland ,a,26,Scott McKenna,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,1,Dominik Livaković,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,4,Ivan Perišić,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,6,Dejan Lovren,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,8,Mateo Kovačić,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,10,Luka Modrić,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,11,Marcelo Brozović,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,13,Nikola Vlašić,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,20,Bruno Petković,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,21,Domagoj Vida,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,22,Josip Juranović,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,25,Joško Gvardiol,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,12,Lovre Kalinić,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,23,Simon Sluga,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,2,Šime Vrsaljko,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,3,Borna Barišić,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,5,Duje Ćaleta-Car,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,7,Josip Brekalo,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,9,Andrej Kramarić,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,14,Ante Budimir,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,15,Mario Pašalić,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,17,Ante Rebić,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,19,Milan Badelj,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Croatia,h,26,Luka Ivanušec,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,1,David Marshall,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,2,Stephen O'Donnell,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,3,Andrew Robertson,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,4,Scott McTominay,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,5,Grant Hanley,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,6,Kieran Tierney,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,7,John McGinn,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,8,Callum McGregor,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,9,Lyndon Dykes,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,10,Che Adams,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,17,Stuart Armstrong,Start
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,12,Craig Gordon,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,21,Jon McLaughlin,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,11,Ryan Christie,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,14,John Fleck,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,15,Declan Gallagher,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,16,Liam Cooper,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,18,David Turnbull,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,19,Kevin Nisbet,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,20,Ryan Fraser,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,22,Nathan Patterson,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,25,James Forrest,Bench
+0305e42c,"Tuesday June 22, 2021",20:00,Scotland ,a,26,Scott McKenna,Bench
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,16,Matvei Safonov,Start
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,2,Mário Fernandes,Start
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,3,Igor Diveev,Start
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,7,Magomed Ozdoyev,Start
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,11,Roman Zobnin,Start
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,13,Fyodor Kudryashov,Start
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,14,Georgi Dzhikiya,Start
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,15,Aleksei Miranchuk,Start
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,17,Aleksandr Golovin,Start
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,22,Artem Dzyuba,Start
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,23,Daler Kuzyaev,Start
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,1,Anton Shunin,Bench
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,12,Yuri Dyupin,Bench
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,4,Vyacheslav Karavayev,Bench
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,5,Andrei Semyonov,Bench
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,6,Denis Cheryshev,Bench
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,8,Dmitri Barinov,Bench
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,9,Aleksandr Sobolev,Bench
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,10,Anton Zabolotny,Bench
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,19,Rifat Zhemaletdinov,Bench
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,20,Aleksei Ionov,Bench
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,24,Roman Yevgenyev,Bench
+04188c5c,"Monday June 21, 2021",21:00,Russia,h,26,Maksim Mukhin,Bench
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,1,Kasper Schmeichel,Start
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,3,Jannik Vestergaard,Start
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,4,Simon Kjær,Start
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,5,Joakim Mæhle,Start
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,6,Andreas Christensen,Start
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,8,Thomas Delaney,Start
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,9,Martin Braithwaite,Start
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,14,Mikkel Damsgaard,Start
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,18,Daniel Wass,Start
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,20,Yussuf Poulsen,Start
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,23,Pierre Højbjerg,Start
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,16,Jonas Lössl,Bench
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,22,Frederik Rønnow,Bench
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,2,Joachim Andersen,Bench
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,7,Robert Skov,Bench
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,11,Andreas Skov Olsen,Bench
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,12,Kasper Dolberg,Bench
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,13,Mathias Jørgensen,Bench
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,15,Christian Nørgaard,Bench
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,17,Jens Stryger Larsen,Bench
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,19,Jonas Wind,Bench
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,21,Andreas Cornelius,Bench
+04188c5c,"Monday June 21, 2021",21:00,Denmark ,a,24,Mathias Jensen,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,1,Maarten Stekelenburg,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,6,Stefan de Vrij,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,8,Georginio Wijnaldum,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,10,Memphis Depay,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,12,Patrick van Aanholt,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,15,Marten de Roon,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,17,Daley Blind,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,19,Wout Weghorst,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,21,Frenkie de Jong,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,22,Denzel Dumfries,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,25,Jurrien Timber,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,13,Tim Krul,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,23,Marco Bizot,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,2,Joël Veltman,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,4,Nathan Aké,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,5,Owen Wijndal,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,7,Steven Berghuis,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,9,Luuk de Jong,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,14,Davy Klaassen,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,16,Ryan Gravenberch,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,18,Donyell Malen,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,24,Teun Koopmeiners,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Netherlands,h,26,Cody Gakpo,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,1,Heorhiy Bushchan,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,5,Serhiy Sydorchuk,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,7,Andriy Yarmolenko,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,8,Ruslan Malinovskyi,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,9,Roman Yaremchuk,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,13,Illia Zabarnyi,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,16,Vitaliy Mykolenko,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,17,Oleksandr Zinchenko,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,20,Oleksandr Zubkov,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,21,Oleksandr Karavayev,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,22,Mykola Matviyenko,Start
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,12,Andriy Pyatov,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,23,Anatolii Trubin,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,2,Eduard Sobol,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,4,Serhiy Kryvtsov,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,6,Taras Stepanenko,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,10,Mykola Shaparenko,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,11,Marlos,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,14,Yevhen Makarenko,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,19,Artem Besyedin,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,24,Oleksandr Tymchyk,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,25,Denys Popov,Bench
+0e9919a5,"Sunday June 13, 2021",21:00,Ukraine ,a,26,Artem Dovbyk,Bench
+107fd412,"Monday June 14, 2021",21:00,Spain,h,23,Unai Simón,Start
+107fd412,"Monday June 14, 2021",21:00,Spain,h,4,Pau Torres,Start
+107fd412,"Monday June 14, 2021",21:00,Spain,h,6,Marcos Llorente,Start
+107fd412,"Monday June 14, 2021",21:00,Spain,h,7,Álvaro Morata,Start
+107fd412,"Monday June 14, 2021",21:00,Spain,h,8,Koke,Start
+107fd412,"Monday June 14, 2021",21:00,Spain,h,11,Ferrán Torres,Start
+107fd412,"Monday June 14, 2021",21:00,Spain,h,16,Rodri,Start
+107fd412,"Monday June 14, 2021",21:00,Spain,h,18,Jordi Alba,Start
+107fd412,"Monday June 14, 2021",21:00,Spain,h,19,Dani Olmo,Start
+107fd412,"Monday June 14, 2021",21:00,Spain,h,24,Aymeric Laporte,Start
+107fd412,"Monday June 14, 2021",21:00,Spain,h,26,Pedri,Start
+107fd412,"Monday June 14, 2021",21:00,Spain,h,1,David de Gea,Bench
+107fd412,"Monday June 14, 2021",21:00,Spain,h,13,Robert Sánchez,Bench
+107fd412,"Monday June 14, 2021",21:00,Spain,h,2,César Azpilicueta,Bench
+107fd412,"Monday June 14, 2021",21:00,Spain,h,3,Diego Llorente,Bench
+107fd412,"Monday June 14, 2021",21:00,Spain,h,9,Gerard Moreno,Bench
+107fd412,"Monday June 14, 2021",21:00,Spain,h,10,Thiago Alcántara,Bench
+107fd412,"Monday June 14, 2021",21:00,Spain,h,12,Eric García,Bench
+107fd412,"Monday June 14, 2021",21:00,Spain,h,14,José Luis Gayà,Bench
+107fd412,"Monday June 14, 2021",21:00,Spain,h,17,Fabián Ruiz Peña,Bench
+107fd412,"Monday June 14, 2021",21:00,Spain,h,20,Adama Traoré,Bench
+107fd412,"Monday June 14, 2021",21:00,Spain,h,21,Mikel Oyarzabal,Bench
+107fd412,"Monday June 14, 2021",21:00,Spain,h,22,Pablo Sarabia,Bench
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,1,Robin Olsen,Start
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,2,Mikael Lustig,Start
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,3,Victor Lindelöf,Start
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,6,Ludwig Augustinsson,Start
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,7,Seb Larsson,Start
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,8,Albin Ekdal,Start
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,9,Marcus Berg,Start
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,10,Emil Forsberg,Start
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,11,Alexander Isak,Start
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,20,Kristoffer Olsson,Start
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,24,Marcus Danielsson,Start
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,12,Karl-Johan Johnsson,Bench
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,23,Kristoffer Nordfeldt,Bench
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,5,Pierre Bengtsson,Bench
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,13,Gustav Svensson,Bench
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,14,Filip Helander,Bench
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,15,Ken Sema,Bench
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,16,Emil Krafth,Bench
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,17,Viktor Claesson,Bench
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,18,Pontus Jansson,Bench
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,22,Robin Quaison,Bench
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,25,Jordan Larsson,Bench
+107fd412,"Monday June 14, 2021",21:00,Sweden ,a,26,Jens Cajuste,Bench
+14874531,"Saturday June 19, 2021",21:00,Spain,h,23,Unai Simón,Start
+14874531,"Saturday June 19, 2021",21:00,Spain,h,4,Pau Torres,Start
+14874531,"Saturday June 19, 2021",21:00,Spain,h,6,Marcos Llorente,Start
+14874531,"Saturday June 19, 2021",21:00,Spain,h,7,Álvaro Morata,Start
+14874531,"Saturday June 19, 2021",21:00,Spain,h,8,Koke,Start
+14874531,"Saturday June 19, 2021",21:00,Spain,h,9,Gerard Moreno,Start
+14874531,"Saturday June 19, 2021",21:00,Spain,h,16,Rodri,Start
+14874531,"Saturday June 19, 2021",21:00,Spain,h,18,Jordi Alba,Start
+14874531,"Saturday June 19, 2021",21:00,Spain,h,19,Dani Olmo,Start
+14874531,"Saturday June 19, 2021",21:00,Spain,h,24,Aymeric Laporte,Start
+14874531,"Saturday June 19, 2021",21:00,Spain,h,26,Pedri,Start
+14874531,"Saturday June 19, 2021",21:00,Spain,h,1,David de Gea,Bench
+14874531,"Saturday June 19, 2021",21:00,Spain,h,13,Robert Sánchez,Bench
+14874531,"Saturday June 19, 2021",21:00,Spain,h,2,César Azpilicueta,Bench
+14874531,"Saturday June 19, 2021",21:00,Spain,h,3,Diego Llorente,Bench
+14874531,"Saturday June 19, 2021",21:00,Spain,h,10,Thiago Alcántara,Bench
+14874531,"Saturday June 19, 2021",21:00,Spain,h,11,Ferrán Torres,Bench
+14874531,"Saturday June 19, 2021",21:00,Spain,h,12,Eric García,Bench
+14874531,"Saturday June 19, 2021",21:00,Spain,h,14,José Luis Gayà,Bench
+14874531,"Saturday June 19, 2021",21:00,Spain,h,17,Fabián Ruiz Peña,Bench
+14874531,"Saturday June 19, 2021",21:00,Spain,h,20,Adama Traoré,Bench
+14874531,"Saturday June 19, 2021",21:00,Spain,h,21,Mikel Oyarzabal,Bench
+14874531,"Saturday June 19, 2021",21:00,Spain,h,22,Pablo Sarabia,Bench
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,1,Wojciech Szczęsny,Start
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,5,Jan Bednarek,Start
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,9,Robert Lewandowski,Start
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,11,Karol Świderski,Start
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,14,Mateusz Klich,Start
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,15,Kamil Glik,Start
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,16,Jakub Moder,Start
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,18,Bartosz Bereszyński,Start
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,20,Piotr Zieliński,Start
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,21,Kamil Jóźwiak,Start
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,26,Tymoteusz Puchacz,Start
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,12,Łukasz Skorupski,Bench
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,22,Łukasz Fabiański,Bench
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,3,Paweł Dawidowicz,Bench
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,4,Tomasz Kędziora,Bench
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,6,Kacper Kozłowski,Bench
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,8,Karol Linetty,Bench
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,13,Maciej Rybus,Bench
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,17,Przemysław Płacheta,Bench
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,19,Przemysław Frankowski,Bench
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,23,Dawid Kownacki,Bench
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,24,Jakub Świerczok,Bench
+14874531,"Saturday June 19, 2021",21:00,Poland ,a,25,Michał Helik,Bench
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,1,Yann Sommer,Start
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,3,Silvan Widmer,Start
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,4,Nico Elvedi,Start
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,5,Manuel Akanji,Start
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,6,Denis Zakaria,Start
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,7,Breel Embolo,Start
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,8,Remo Freuler,Start
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,9,Haris Seferović,Start
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,13,Ricardo Rodríguez,Start
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,14,Steven Zuber,Start
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,23,Xherdan Shaqiri,Start
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,12,Yvon Mvogo,Bench
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,21,Gregor Kobel,Bench
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,2,Kevin Mbabu,Bench
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,11,Ruben Vargas,Bench
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,15,Djibril Sow,Bench
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,16,Christian Fassnacht,Bench
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,17,Loris Benito,Bench
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,19,Mario Gavranović,Bench
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,20,Edimilson Fernandes,Bench
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,22,Fabian Schär,Bench
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,25,Eray Cömert,Bench
+18c4e831,"Friday July 2, 2021",19:00,Switzerland,h,26,Jordan Lotomba,Bench
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,23,Unai Simón,Start
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,2,César Azpilicueta,Start
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,4,Pau Torres,Start
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,5,Sergio Busquets,Start
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,7,Álvaro Morata,Start
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,8,Koke,Start
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,11,Ferrán Torres,Start
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,18,Jordi Alba,Start
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,22,Pablo Sarabia,Start
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,24,Aymeric Laporte,Start
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,26,Pedri,Start
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,1,David de Gea,Bench
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,13,Robert Sánchez,Bench
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,3,Diego Llorente,Bench
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,6,Marcos Llorente,Bench
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,9,Gerard Moreno,Bench
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,10,Thiago Alcántara,Bench
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,12,Eric García,Bench
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,14,José Luis Gayà,Bench
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,16,Rodri,Bench
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,19,Dani Olmo,Bench
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,20,Adama Traoré,Bench
+18c4e831,"Friday July 2, 2021",19:00,Spain ,a,21,Mikel Oyarzabal,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,1,Tomáš Vaclík,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,3,Ondřej Čelůstka,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,5,Vladimír Coufal,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,6,Tomáš Kalas,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,7,Antonín Barák,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,9,Tomáš Holeš,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,10,Patrik Schick,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,12,Lukáš Masopust,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,13,Petr Ševčík,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,15,Tomáš Souček,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,18,Jan Bořil,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,16,Aleš Mandous,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,23,Tomáš Koubek,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,2,Pavel Kadeřábek,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,4,Jakub Brabec,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,8,Vladimír Darida,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,11,Michal Krmenčík,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,14,Jakub Jankto,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,17,David Zima,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,20,Matěj Vydra,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,21,Alex Král,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,24,Tomáš Pekhart,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Czech Republic,h,25,Jakub Pesek,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,1,Kasper Schmeichel,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,3,Jannik Vestergaard,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,4,Simon Kjær,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,5,Joakim Mæhle,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,6,Andreas Christensen,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,8,Thomas Delaney,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,9,Martin Braithwaite,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,12,Kasper Dolberg,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,14,Mikkel Damsgaard,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,17,Jens Stryger Larsen,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,23,Pierre Højbjerg,Start
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,16,Jonas Lössl,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,22,Frederik Rønnow,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,2,Joachim Andersen,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,7,Robert Skov,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,11,Andreas Skov Olsen,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,13,Mathias Jørgensen,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,15,Christian Nørgaard,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,18,Daniel Wass,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,19,Jonas Wind,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,20,Yussuf Poulsen,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,21,Andreas Cornelius,Bench
+1a1e61fe,"Saturday July 3, 2021",20:00,Denmark ,a,24,Mathias Jensen,Bench
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,1,Dominik Livaković,Start
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,2,Šime Vrsaljko,Start
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,4,Ivan Perišić,Start
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,6,Dejan Lovren,Start
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,7,Josip Brekalo,Start
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,8,Mateo Kovačić,Start
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,9,Andrej Kramarić,Start
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,10,Luka Modrić,Start
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,17,Ante Rebić,Start
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,21,Domagoj Vida,Start
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,25,Joško Gvardiol,Start
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,12,Lovre Kalinić,Bench
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,23,Simon Sluga,Bench
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,5,Duje Ćaleta-Car,Bench
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,11,Marcelo Brozović,Bench
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,13,Nikola Vlašić,Bench
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,15,Mario Pašalić,Bench
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,18,Mislav Oršić,Bench
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,19,Milan Badelj,Bench
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,20,Bruno Petković,Bench
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,22,Josip Juranović,Bench
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,24,Domagoj Bradarić,Bench
+1e930db9,"Friday June 18, 2021",17:00,Croatia,h,26,Luka Ivanušec,Bench
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,1,Tomáš Vaclík,Start
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,3,Ondřej Čelůstka,Start
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,5,Vladimír Coufal,Start
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,6,Tomáš Kalas,Start
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,8,Vladimír Darida,Start
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,9,Tomáš Holeš,Start
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,10,Patrik Schick,Start
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,12,Lukáš Masopust,Start
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,14,Jakub Jankto,Start
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,15,Tomáš Souček,Start
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,18,Jan Bořil,Start
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,16,Aleš Mandous,Bench
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,23,Tomáš Koubek,Bench
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,2,Pavel Kadeřábek,Bench
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,4,Jakub Brabec,Bench
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,7,Antonín Barák,Bench
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,11,Michal Krmenčík,Bench
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,13,Petr Ševčík,Bench
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,17,David Zima,Bench
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,19,Adam Hložek,Bench
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,20,Matěj Vydra,Bench
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,21,Alex Král,Bench
+1e930db9,"Friday June 18, 2021",17:00,Czech Republic ,a,24,Tomáš Pekhart,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,1,Tomáš Vaclík,Start
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,3,Ondřej Čelůstka,Start
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,5,Vladimír Coufal,Start
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,6,Tomáš Kalas,Start
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,8,Vladimír Darida,Start
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,9,Tomáš Holeš,Start
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,10,Patrik Schick,Start
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,12,Lukáš Masopust,Start
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,14,Jakub Jankto,Start
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,15,Tomáš Souček,Start
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,18,Jan Bořil,Start
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,16,Aleš Mandous,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,23,Tomáš Koubek,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,2,Pavel Kadeřábek,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,4,Jakub Brabec,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,7,Antonín Barák,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,11,Michal Krmenčík,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,13,Petr Ševčík,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,19,Adam Hložek,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,20,Matěj Vydra,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,21,Alex Král,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,22,Aleš Matějů,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,Czech Republic,h,24,Tomáš Pekhart,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,1,Jordan Pickford,Start
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,2,Kyle Walker,Start
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,3,Luke Shaw,Start
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,4,Declan Rice,Start
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,5,John Stones,Start
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,6,Harry Maguire,Start
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,7,Jack Grealish,Start
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,9,Harry Kane,Start
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,10,Raheem Sterling,Start
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,14,Kalvin Phillips,Start
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,25,Bukayo Saka,Start
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,13,Aaron Ramsdale,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,23,Sam Johnstone,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,8,Jordan Henderson,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,11,Marcus Rashford,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,12,Kieran Trippier,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,15,Tyrone Mings,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,16,Conor Coady,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,17,Jadon Sancho,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,18,Dominic Calvert-Lewin,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,22,Ben White,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,24,Reece James,Bench
+20b1972b,"Tuesday June 22, 2021",20:00,England ,a,26,Jude Bellingham,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,1,Kasper Schmeichel,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,3,Jannik Vestergaard,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,4,Simon Kjær,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,5,Joakim Mæhle,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,6,Andreas Christensen,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,8,Thomas Delaney,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,9,Martin Braithwaite,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,14,Mikkel Damsgaard,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,18,Daniel Wass,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,20,Yussuf Poulsen,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,23,Pierre Højbjerg,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,16,Jonas Lössl,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,22,Frederik Rønnow,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,2,Joachim Andersen,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,7,Robert Skov,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,11,Andreas Skov Olsen,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,12,Kasper Dolberg,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,13,Mathias Jørgensen,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,15,Christian Nørgaard,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,17,Jens Stryger Larsen,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,19,Jonas Wind,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,21,Andreas Cornelius,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Denmark,h,24,Mathias Jensen,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,1,Thibaut Courtois,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,2,Toby Alderweireld,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,5,Jan Vertonghen,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,8,Youri Tielemans,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,9,Romelu Lukaku,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,11,Yannick Carrasco,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,14,Dries Mertens,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,15,Thomas Meunier,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,16,Thorgan Hazard,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,18,Jason Denayer,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,19,Leander Dendoncker,Start
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,12,Simon Mignolet,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,13,Matz Sels,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,3,Thomas Vermaelen,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,4,Dedryck Boyata,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,6,Axel Witsel,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,7,Kevin De Bruyne,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,10,Eden Hazard,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,20,Christian Benteke,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,23,Michy Batshuayi,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,24,Leandro Trossard,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,25,Jeremy Doku,Bench
+25bb1fa2,"Thursday June 17, 2021",18:00,Belgium ,a,26,Dennis Praet,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,1,Lukáš Hrádecký,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,2,Paulus Arajuuri,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,3,Daniel O'Shaughnessy,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,4,Joona Toivio,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,6,Glen Kamara,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,8,Robin Lod,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,10,Teemu Pukki,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,11,Rasmus Schüller,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,18,Jere Uronen,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,20,Joel Pohjanpalo,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,22,Jukka Raitala,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,12,Jesse Joronen,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,23,Anssi Jaakkola,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,5,Leo Väisänen,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,9,Fredrik Jensen,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,13,Pyry Soiri,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,14,Tim Sparv,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,17,Nikolai Alho,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,19,Joni Kauko,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,21,Lassi Lappalainen,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,24,Onni Valakari,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,25,Robert Ivanov,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Finland,h,26,Marcus Forss,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,16,Matvei Safonov,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,2,Mário Fernandes,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,3,Igor Diveev,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,7,Magomed Ozdoyev,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,8,Dmitri Barinov,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,11,Roman Zobnin,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,14,Georgi Dzhikiya,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,15,Aleksei Miranchuk,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,17,Aleksandr Golovin,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,22,Artem Dzyuba,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,23,Daler Kuzyaev,Start
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,1,Anton Shunin,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,12,Yuri Dyupin,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,4,Vyacheslav Karavayev,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,5,Andrei Semyonov,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,6,Denis Cheryshev,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,9,Aleksandr Sobolev,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,10,Anton Zabolotny,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,19,Rifat Zhemaletdinov,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,21,Daniil Fomin,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,24,Roman Yevgenyev,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,25,Denis Makarov,Bench
+2c48acb2,"Wednesday June 16, 2021",16:00,Russia ,a,26,Maksim Mukhin,Bench
+2c7de26e,"Monday June 28, 2021",22:00,France,h,1,Hugo Lloris,Start
+2c7de26e,"Monday June 28, 2021",22:00,France,h,2,Benjamin Pavard,Start
+2c7de26e,"Monday June 28, 2021",22:00,France,h,3,Presnel Kimpembe,Start
+2c7de26e,"Monday June 28, 2021",22:00,France,h,4,Raphaël Varane,Start
+2c7de26e,"Monday June 28, 2021",22:00,France,h,5,Clément Lenglet,Start
+2c7de26e,"Monday June 28, 2021",22:00,France,h,6,Paul Pogba,Start
+2c7de26e,"Monday June 28, 2021",22:00,France,h,7,Antoine Griezmann,Start
+2c7de26e,"Monday June 28, 2021",22:00,France,h,10,Kylian Mbappé,Start
+2c7de26e,"Monday June 28, 2021",22:00,France,h,13,N'Golo Kanté,Start
+2c7de26e,"Monday June 28, 2021",22:00,France,h,14,Adrien Rabiot,Start
+2c7de26e,"Monday June 28, 2021",22:00,France,h,19,Karim Benzema,Start
+2c7de26e,"Monday June 28, 2021",22:00,France,h,16,Steve Mandanda,Bench
+2c7de26e,"Monday June 28, 2021",22:00,France,h,23,Mike Maignan,Bench
+2c7de26e,"Monday June 28, 2021",22:00,France,h,8,Thomas Lemar,Bench
+2c7de26e,"Monday June 28, 2021",22:00,France,h,9,Olivier Giroud,Bench
+2c7de26e,"Monday June 28, 2021",22:00,France,h,12,Corentin Tolisso,Bench
+2c7de26e,"Monday June 28, 2021",22:00,France,h,15,Kurt Zouma,Bench
+2c7de26e,"Monday June 28, 2021",22:00,France,h,17,Moussa Sissoko,Bench
+2c7de26e,"Monday June 28, 2021",22:00,France,h,20,Kingsley Coman,Bench
+2c7de26e,"Monday June 28, 2021",22:00,France,h,21,Lucas Hernández,Bench
+2c7de26e,"Monday June 28, 2021",22:00,France,h,22,Wissam Ben Yedder,Bench
+2c7de26e,"Monday June 28, 2021",22:00,France,h,24,Leo Dubois,Bench
+2c7de26e,"Monday June 28, 2021",22:00,France,h,26,Marcus Thuram,Bench
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,1,Yann Sommer,Start
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,3,Silvan Widmer,Start
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,4,Nico Elvedi,Start
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,5,Manuel Akanji,Start
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,7,Breel Embolo,Start
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,8,Remo Freuler,Start
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,9,Haris Seferović,Start
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,10,Granit Xhaka,Start
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,13,Ricardo Rodríguez,Start
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,14,Steven Zuber,Start
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,23,Xherdan Shaqiri,Start
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,12,Yvon Mvogo,Bench
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,21,Gregor Kobel,Bench
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,2,Kevin Mbabu,Bench
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,6,Denis Zakaria,Bench
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,11,Ruben Vargas,Bench
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,15,Djibril Sow,Bench
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,16,Christian Fassnacht,Bench
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,17,Loris Benito,Bench
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,18,Admir Mehmedi,Bench
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,19,Mario Gavranović,Bench
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,20,Edimilson Fernandes,Bench
+2c7de26e,"Monday June 28, 2021",22:00,Switzerland ,a,22,Fabian Schär,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,1,Thibaut Courtois,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,2,Toby Alderweireld,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,3,Thomas Vermaelen,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,5,Jan Vertonghen,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,6,Axel Witsel,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,7,Kevin De Bruyne,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,8,Youri Tielemans,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,9,Romelu Lukaku,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,15,Thomas Meunier,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,16,Thorgan Hazard,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,25,Jeremy Doku,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,12,Thomas Kaminski,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,13,Matz Sels,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,4,Dedryck Boyata,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,11,Yannick Carrasco,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,14,Dries Mertens,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,18,Jason Denayer,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,19,Leander Dendoncker,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,20,Christian Benteke,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,22,Nacer Chadli,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,23,Michy Batshuayi,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,24,Leandro Trossard,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Belgium,h,26,Dennis Praet,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,21,Gianluigi Donnarumma,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,2,Giovanni Di Lorenzo,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,3,Giorgio Chiellini,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,4,Leonardo Spinazzola,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,6,Marco Verratti,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,8,Jorginho,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,10,Lorenzo Insigne,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,14,Federico Chiesa,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,17,Ciro Immobile,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,18,Nicolò Barella,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,19,Leonardo Bonucci,Start
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,1,Salvatore Sirigu,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,26,Alex Meret,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,5,Manuel Locatelli,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,9,Andrea Belotti,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,11,Domenico Berardi,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,12,Matteo Pessina,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,13,Emerson Palmieri,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,15,Francesco Acerbi,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,16,Bryan Cristante,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,20,Federico Bernardeschi,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,23,Alessandro Bastoni,Bench
+35a9c7dc,"Friday July 2, 2021",21:00,Italy ,a,25,Rafael Tolói,Bench
+415ff832,"Tuesday June 29, 2021",17:00,England,h,1,Jordan Pickford,Start
+415ff832,"Tuesday June 29, 2021",17:00,England,h,2,Kyle Walker,Start
+415ff832,"Tuesday June 29, 2021",17:00,England,h,3,Luke Shaw,Start
+415ff832,"Tuesday June 29, 2021",17:00,England,h,4,Declan Rice,Start
+415ff832,"Tuesday June 29, 2021",17:00,England,h,5,John Stones,Start
+415ff832,"Tuesday June 29, 2021",17:00,England,h,6,Harry Maguire,Start
+415ff832,"Tuesday June 29, 2021",17:00,England,h,9,Harry Kane,Start
+415ff832,"Tuesday June 29, 2021",17:00,England,h,10,Raheem Sterling,Start
+415ff832,"Tuesday June 29, 2021",17:00,England,h,12,Kieran Trippier,Start
+415ff832,"Tuesday June 29, 2021",17:00,England,h,14,Kalvin Phillips,Start
+415ff832,"Tuesday June 29, 2021",17:00,England,h,25,Bukayo Saka,Start
+415ff832,"Tuesday June 29, 2021",17:00,England,h,13,Aaron Ramsdale,Bench
+415ff832,"Tuesday June 29, 2021",17:00,England,h,23,Sam Johnstone,Bench
+415ff832,"Tuesday June 29, 2021",17:00,England,h,7,Jack Grealish,Bench
+415ff832,"Tuesday June 29, 2021",17:00,England,h,8,Jordan Henderson,Bench
+415ff832,"Tuesday June 29, 2021",17:00,England,h,11,Marcus Rashford,Bench
+415ff832,"Tuesday June 29, 2021",17:00,England,h,15,Tyrone Mings,Bench
+415ff832,"Tuesday June 29, 2021",17:00,England,h,16,Conor Coady,Bench
+415ff832,"Tuesday June 29, 2021",17:00,England,h,17,Jadon Sancho,Bench
+415ff832,"Tuesday June 29, 2021",17:00,England,h,19,Mason Mount,Bench
+415ff832,"Tuesday June 29, 2021",17:00,England,h,20,Phil Foden,Bench
+415ff832,"Tuesday June 29, 2021",17:00,England,h,24,Reece James,Bench
+415ff832,"Tuesday June 29, 2021",17:00,England,h,26,Jude Bellingham,Bench
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,1,Manuel Neuer,Start
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,2,Antonio Rüdiger,Start
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,4,Matthias Ginter,Start
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,5,Mats Hummels,Start
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,6,Joshua Kimmich,Start
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,7,Kai Havertz,Start
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,8,Toni Kroos,Start
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,11,Timo Werner,Start
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,18,Leon Goretzka,Start
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,20,Robin Gosens,Start
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,25,Thomas Müller,Start
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,12,Bernd Leno,Bench
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,22,Kevin Trapp,Bench
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,3,Marcel Halstenberg,Bench
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,9,Kevin Volland,Bench
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,10,Serge Gnabry,Bench
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,14,Jamal Musiala,Bench
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,15,Niklas Süle,Bench
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,17,Florian Neuhaus,Bench
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,19,Leroy Sané,Bench
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,21,İlkay Gündoğan,Bench
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,23,Emre Can,Bench
+415ff832,"Tuesday June 29, 2021",17:00,Germany ,a,24,Robin Koch,Bench
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,1,Maarten Stekelenburg,Start
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,3,Matthijs de Ligt,Start
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,6,Stefan de Vrij,Start
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,8,Georginio Wijnaldum,Start
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,10,Memphis Depay,Start
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,12,Patrick van Aanholt,Start
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,15,Marten de Roon,Start
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,17,Daley Blind,Start
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,18,Donyell Malen,Start
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,21,Frenkie de Jong,Start
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,22,Denzel Dumfries,Start
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,13,Tim Krul,Bench
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,23,Marco Bizot,Bench
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,2,Joël Veltman,Bench
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,4,Nathan Aké,Bench
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,5,Owen Wijndal,Bench
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,7,Steven Berghuis,Bench
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,11,Quincy Promes,Bench
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,14,Davy Klaassen,Bench
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,16,Ryan Gravenberch,Bench
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,19,Wout Weghorst,Bench
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,25,Jurrien Timber,Bench
+437cb418,"Sunday June 27, 2021",18:00,Netherlands,h,26,Cody Gakpo,Bench
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,1,Tomáš Vaclík,Start
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,2,Pavel Kadeřábek,Start
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,3,Ondřej Čelůstka,Start
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,5,Vladimír Coufal,Start
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,6,Tomáš Kalas,Start
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,7,Antonín Barák,Start
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,9,Tomáš Holeš,Start
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,10,Patrik Schick,Start
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,12,Lukáš Masopust,Start
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,13,Petr Ševčík,Start
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,15,Tomáš Souček,Start
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,16,Aleš Mandous,Bench
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,23,Tomáš Koubek,Bench
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,4,Jakub Brabec,Bench
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,11,Michal Krmenčík,Bench
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,14,Jakub Jankto,Bench
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,19,Adam Hložek,Bench
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,20,Matěj Vydra,Bench
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,21,Alex Král,Bench
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,22,Aleš Matějů,Bench
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,24,Tomáš Pekhart,Bench
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,25,Jakub Pesek,Bench
+437cb418,"Sunday June 27, 2021",18:00,Czech Republic ,a,26,Michal Sadílek,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,1,Rui Patrício,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,2,Nélson Semedo,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,3,Pepe,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,4,Rúben Dias,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,5,Raphaël Guerreiro,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,7,Cristiano Ronaldo,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,8,João Moutinho,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,10,Bernardo Silva,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,13,Danilo Pereira,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,16,Renato Sanches,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,21,Diogo Jota,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,12,Anthony Lopes,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,22,Rui Silva,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,6,José Fonte,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,9,André Silva,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,11,Bruno Fernandes,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,14,William Carvalho,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,15,Rafa Silva,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,18,Rúben Neves,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,20,Diogo Dalot,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,23,João Félix,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,24,Sérgio Oliveira,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,Portugal,h,26,João Palhinha,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,1,Hugo Lloris,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,3,Presnel Kimpembe,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,4,Raphaël Varane,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,6,Paul Pogba,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,7,Antoine Griezmann,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,10,Kylian Mbappé,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,12,Corentin Tolisso,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,13,N'Golo Kanté,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,19,Karim Benzema,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,21,Lucas Hernández,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,25,Jules Koundé,Start
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,16,Steve Mandanda,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,23,Mike Maignan,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,2,Benjamin Pavard,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,5,Clément Lenglet,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,8,Thomas Lemar,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,9,Olivier Giroud,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,14,Adrien Rabiot,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,15,Kurt Zouma,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,17,Moussa Sissoko,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,18,Lucas Digne,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,20,Kingsley Coman,Bench
+5a7e53d8,"Wednesday June 23, 2021",21:00,France ,a,22,Wissam Ben Yedder,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,1,David Marshall,Start
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,2,Stephen O'Donnell,Start
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,3,Andrew Robertson,Start
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,4,Scott McTominay,Start
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,5,Grant Hanley,Start
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,7,John McGinn,Start
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,9,Lyndon Dykes,Start
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,11,Ryan Christie,Start
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,16,Liam Cooper,Start
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,17,Stuart Armstrong,Start
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,24,Jack Hendry,Start
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,12,Craig Gordon,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,21,Jon McLaughlin,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,8,Callum McGregor,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,10,Che Adams,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,13,Greg Taylor,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,18,David Turnbull,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,19,Kevin Nisbet,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,20,Ryan Fraser,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,22,Nathan Patterson,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,23,Billy Gilmour,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,25,James Forrest,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Scotland,h,26,Scott McKenna,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,1,Tomáš Vaclík,Start
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,3,Ondřej Čelůstka,Start
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,5,Vladimír Coufal,Start
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,6,Tomáš Kalas,Start
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,8,Vladimír Darida,Start
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,10,Patrik Schick,Start
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,12,Lukáš Masopust,Start
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,14,Jakub Jankto,Start
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,15,Tomáš Souček,Start
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,18,Jan Bořil,Start
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,21,Alex Král,Start
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,16,Aleš Mandous,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,2,Pavel Kadeřábek,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,4,Jakub Brabec,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,7,Antonín Barák,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,9,Tomáš Holeš,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,11,Michal Krmenčík,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,13,Petr Ševčík,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,17,David Zima,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,19,Adam Hložek,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,20,Matěj Vydra,Bench
+6599f4ab,"Monday June 14, 2021",14:00,Czech Republic ,a,24,Tomáš Pekhart,Bench
+764c27dc,"Sunday June 13, 2021",14:00,England,h,1,Jordan Pickford,Start
+764c27dc,"Sunday June 13, 2021",14:00,England,h,2,Kyle Walker,Start
+764c27dc,"Sunday June 13, 2021",14:00,England,h,4,Declan Rice,Start
+764c27dc,"Sunday June 13, 2021",14:00,England,h,5,John Stones,Start
+764c27dc,"Sunday June 13, 2021",14:00,England,h,9,Harry Kane,Start
+764c27dc,"Sunday June 13, 2021",14:00,England,h,10,Raheem Sterling,Start
+764c27dc,"Sunday June 13, 2021",14:00,England,h,12,Kieran Trippier,Start
+764c27dc,"Sunday June 13, 2021",14:00,England,h,14,Kalvin Phillips,Start
+764c27dc,"Sunday June 13, 2021",14:00,England,h,15,Tyrone Mings,Start
+764c27dc,"Sunday June 13, 2021",14:00,England,h,19,Mason Mount,Start
+764c27dc,"Sunday June 13, 2021",14:00,England,h,20,Phil Foden,Start
+764c27dc,"Sunday June 13, 2021",14:00,England,h,13,Dean Henderson,Bench
+764c27dc,"Sunday June 13, 2021",14:00,England,h,23,Sam Johnstone,Bench
+764c27dc,"Sunday June 13, 2021",14:00,England,h,3,Luke Shaw,Bench
+764c27dc,"Sunday June 13, 2021",14:00,England,h,7,Jack Grealish,Bench
+764c27dc,"Sunday June 13, 2021",14:00,England,h,8,Jordan Henderson,Bench
+764c27dc,"Sunday June 13, 2021",14:00,England,h,11,Marcus Rashford,Bench
+764c27dc,"Sunday June 13, 2021",14:00,England,h,16,Conor Coady,Bench
+764c27dc,"Sunday June 13, 2021",14:00,England,h,18,Dominic Calvert-Lewin,Bench
+764c27dc,"Sunday June 13, 2021",14:00,England,h,22,Ben White,Bench
+764c27dc,"Sunday June 13, 2021",14:00,England,h,24,Reece James,Bench
+764c27dc,"Sunday June 13, 2021",14:00,England,h,25,Bukayo Saka,Bench
+764c27dc,"Sunday June 13, 2021",14:00,England,h,26,Jude Bellingham,Bench
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,1,Dominik Livaković,Start
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,2,Šime Vrsaljko,Start
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,4,Ivan Perišić,Start
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,5,Duje Ćaleta-Car,Start
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,8,Mateo Kovačić,Start
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,9,Andrej Kramarić,Start
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,10,Luka Modrić,Start
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,11,Marcelo Brozović,Start
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,17,Ante Rebić,Start
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,21,Domagoj Vida,Start
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,25,Joško Gvardiol,Start
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,12,Lovre Kalinić,Bench
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,23,Simon Sluga,Bench
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,7,Josip Brekalo,Bench
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,13,Nikola Vlašić,Bench
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,14,Ante Budimir,Bench
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,15,Mario Pašalić,Bench
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,16,Mile Škorić,Bench
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,19,Milan Badelj,Bench
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,20,Bruno Petković,Bench
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,22,Josip Juranović,Bench
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,24,Domagoj Bradarić,Bench
+764c27dc,"Sunday June 13, 2021",14:00,Croatia ,a,26,Luka Ivanušec,Bench
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,1,Dominik Livaković,Start
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,5,Duje Ćaleta-Car,Start
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,8,Mateo Kovačić,Start
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,10,Luka Modrić,Start
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,11,Marcelo Brozović,Start
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,13,Nikola Vlašić,Start
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,17,Ante Rebić,Start
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,20,Bruno Petković,Start
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,21,Domagoj Vida,Start
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,22,Josip Juranović,Start
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,25,Joško Gvardiol,Start
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,12,Lovre Kalinić,Bench
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,23,Simon Sluga,Bench
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,2,Šime Vrsaljko,Bench
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,7,Josip Brekalo,Bench
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,9,Andrej Kramarić,Bench
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,14,Ante Budimir,Bench
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,15,Mario Pašalić,Bench
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,16,Mile Škorić,Bench
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,18,Mislav Oršić,Bench
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,19,Milan Badelj,Bench
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,24,Domagoj Bradarić,Bench
+799efcfc,"Monday June 28, 2021",18:00,Croatia,h,26,Luka Ivanušec,Bench
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,23,Unai Simón,Start
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,2,César Azpilicueta,Start
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,5,Sergio Busquets,Start
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,7,Álvaro Morata,Start
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,8,Koke,Start
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,11,Ferrán Torres,Start
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,12,Eric García,Start
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,14,José Luis Gayà,Start
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,22,Pablo Sarabia,Start
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,24,Aymeric Laporte,Start
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,26,Pedri,Start
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,1,David de Gea,Bench
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,13,Robert Sánchez,Bench
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,3,Diego Llorente,Bench
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,4,Pau Torres,Bench
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,6,Marcos Llorente,Bench
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,9,Gerard Moreno,Bench
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,10,Thiago Alcántara,Bench
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,16,Rodri,Bench
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,17,Fabián Ruiz Peña,Bench
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,18,Jordi Alba,Bench
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,19,Dani Olmo,Bench
+799efcfc,"Monday June 28, 2021",18:00,Spain ,a,21,Mikel Oyarzabal,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,1,Martin Dúbravka,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,2,Peter Pekarík,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,5,Ľubomír Šatka,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,8,Ondrej Duda,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,14,Milan Škriniar,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,15,Tomáš Hubočan,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,17,Marek Hamšík,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,18,Lukáš Haraslín,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,19,Juraj Kucka,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,20,Róbert Mak,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,25,Jakub Hromada,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,12,Dušan Kuciak,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,23,Marek Rodák,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,4,Martin Valjent,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,6,Ján Greguš,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,7,Vladimír Weiss,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,10,Tomáš Suslov,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,11,László Bénes,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,13,Patrik Hrošovský,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,16,Dávid Hancko,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,21,Michal Ďuriš,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,22,Stanislav Lobotka,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Slovakia,h,24,Martin Koscelník,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,23,Unai Simón,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,2,César Azpilicueta,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,5,Sergio Busquets,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,7,Álvaro Morata,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,8,Koke,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,9,Gerard Moreno,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,12,Eric García,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,18,Jordi Alba,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,22,Pablo Sarabia,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,24,Aymeric Laporte,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,26,Pedri,Start
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,1,David de Gea,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,13,Robert Sánchez,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,4,Pau Torres,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,6,Marcos Llorente,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,10,Thiago Alcántara,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,11,Ferrán Torres,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,14,José Luis Gayà,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,16,Rodri,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,17,Fabián Ruiz Peña,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,19,Dani Olmo,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,20,Adama Traoré,Bench
+7b46b857,"Wednesday June 23, 2021",18:00,Spain ,a,21,Mikel Oyarzabal,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,1,Heorhiy Bushchan,Start
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,5,Serhiy Sydorchuk,Start
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,7,Andriy Yarmolenko,Start
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,8,Ruslan Malinovskyi,Start
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,9,Roman Yaremchuk,Start
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,10,Mykola Shaparenko,Start
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,13,Illia Zabarnyi,Start
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,16,Vitaliy Mykolenko,Start
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,17,Oleksandr Zinchenko,Start
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,21,Oleksandr Karavayev,Start
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,22,Mykola Matviyenko,Start
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,12,Andriy Pyatov,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,23,Anatolii Trubin,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,2,Eduard Sobol,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,3,Heorhii Sudakov,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,4,Serhiy Kryvtsov,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,6,Taras Stepanenko,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,11,Marlos,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,14,Yevhen Makarenko,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,15,Viktor Tsyhankov,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,19,Artem Besyedin,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,24,Oleksandr Tymchyk,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Ukraine,h,26,Artem Dovbyk,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,13,Daniel Bachmann,Start
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,3,Aleksandar Dragović,Start
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,4,Martin Hinteregger,Start
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,7,Marko Arnautović,Start
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,8,David Alaba,Start
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,9,Marcel Sabitzer,Start
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,10,Florian Grillitsch,Start
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,19,Christoph Baumgartner,Start
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,21,Stefan Lainer,Start
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,23,Xaver Schlager,Start
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,24,Konrad Laimer,Start
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,1,Alexander Schlager,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,12,Pavao Pervan,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,2,Andreas Ulmer,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,5,Stefan Posch,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,6,Stefan Ilsanker,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,11,Michael Gregoritsch,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,15,Philipp Lienhart,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,16,Christopher Trimmel,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,17,Louis Schaub,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,18,Alessandro Schöpf,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,20,Karim Onisiwo,Bench
+7ed46abd,"Monday June 21, 2021",19:00,Austria ,a,25,Sasa Kalajdzic,Bench
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,1,Stole Dimitrievski,Start
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,5,Arijan Ademi,Start
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,6,Visar Musliu,Start
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,7,Ivan Tričkovski,Start
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,8,Ezgjan Alioski,Start
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,9,Aleksandar Trajkovski,Start
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,10,Goran Pandev,Start
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,13,Stefan Ristovski,Start
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,14,Darko Velkovski,Start
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,17,Enis Bardhi,Start
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,21,Elif Elmas,Start
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,12,Risto Jankov,Bench
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,22,Damjan Šiškovski,Bench
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,3,Gjoko Zajkov,Bench
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,4,Kire Ristevski,Bench
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,11,Ferhan Hasani,Bench
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,15,Tihomir Kostadinov,Bench
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,16,Boban Nikolov,Bench
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,18,Vlatko Stojanovski,Bench
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,19,Krste Velkoski,Bench
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,20,Stefan Spirovski,Bench
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,24,Daniel Avramovski,Bench
+841065f5,"Monday June 21, 2021",18:00,North Macedonia,h,25,Darko Churlinov,Bench
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,1,Maarten Stekelenburg,Start
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,3,Matthijs de Ligt,Start
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,6,Stefan de Vrij,Start
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,8,Georginio Wijnaldum,Start
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,10,Memphis Depay,Start
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,12,Patrick van Aanholt,Start
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,16,Ryan Gravenberch,Start
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,17,Daley Blind,Start
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,18,Donyell Malen,Start
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,21,Frenkie de Jong,Start
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,22,Denzel Dumfries,Start
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,13,Tim Krul,Bench
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,23,Marco Bizot,Bench
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,2,Joël Veltman,Bench
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,4,Nathan Aké,Bench
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,7,Steven Berghuis,Bench
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,9,Luuk de Jong,Bench
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,11,Quincy Promes,Bench
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,14,Davy Klaassen,Bench
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,19,Wout Weghorst,Bench
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,24,Teun Koopmeiners,Bench
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,25,Jurrien Timber,Bench
+841065f5,"Monday June 21, 2021",18:00,Netherlands ,a,26,Cody Gakpo,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,1,Heorhiy Bushchan,Start
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,4,Serhiy Kryvtsov,Start
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,5,Serhiy Sydorchuk,Start
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,7,Andriy Yarmolenko,Start
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,9,Roman Yaremchuk,Start
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,10,Mykola Shaparenko,Start
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,13,Illia Zabarnyi,Start
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,16,Vitaliy Mykolenko,Start
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,17,Oleksandr Zinchenko,Start
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,21,Oleksandr Karavayev,Start
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,22,Mykola Matviyenko,Start
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,12,Andriy Pyatov,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,23,Anatolii Trubin,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,2,Eduard Sobol,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,3,Heorhii Sudakov,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,6,Taras Stepanenko,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,11,Marlos,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,14,Yevhen Makarenko,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,15,Viktor Tsyhankov,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,18,Roman Bezus,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,20,Oleksandr Zubkov,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,24,Oleksandr Tymchyk,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,Ukraine,h,26,Artem Dovbyk,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,1,Jordan Pickford,Start
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,2,Kyle Walker,Start
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,3,Luke Shaw,Start
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,4,Declan Rice,Start
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,5,John Stones,Start
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,6,Harry Maguire,Start
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,9,Harry Kane,Start
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,10,Raheem Sterling,Start
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,14,Kalvin Phillips,Start
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,17,Jadon Sancho,Start
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,19,Mason Mount,Start
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,13,Aaron Ramsdale,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,23,Sam Johnstone,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,7,Jack Grealish,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,8,Jordan Henderson,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,11,Marcus Rashford,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,12,Kieran Trippier,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,15,Tyrone Mings,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,16,Conor Coady,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,18,Dominic Calvert-Lewin,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,20,Phil Foden,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,21,Ben Chilwell,Bench
+8589d5c5,"Saturday July 3, 2021",21:00,England ,a,26,Jude Bellingham,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,23,Uğurcan Çakır,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,2,Zeki Çelik,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,3,Merih Demiral,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,4,Çağlar Söyüncü,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,5,Okay Yokuşlu,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,6,Ozan Tufan,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,9,Kenan Karaman,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,10,Hakan Çalhanoğlu,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,11,Yusuf Yazıcı,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,13,Umut Meraş,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,17,Burak Yılmaz,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,1,Mert Günok,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,12,Altay Bayındır,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,7,Cengiz Ünder,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,8,Dorukhan Toköz,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,14,Taylan Antalyalı,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,15,Ozan Kabak,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,16,Enes Ünal,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,19,Orkun Kökçü,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,21,İrfan Kahveci,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,22,Kaan Ayhan,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,25,Mert Müldür,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Turkey,h,26,Halil Dervişoğlu,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,21,Gianluigi Donnarumma,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,3,Giorgio Chiellini,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,4,Leonardo Spinazzola,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,5,Manuel Locatelli,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,8,Jorginho,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,10,Lorenzo Insigne,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,11,Domenico Berardi,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,17,Ciro Immobile,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,18,Nicolò Barella,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,19,Leonardo Bonucci,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,24,Alessandro Florenzi,Start
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,1,Salvatore Sirigu,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,26,Alex Meret,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,2,Giovanni Di Lorenzo,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,9,Andrea Belotti,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,12,Matteo Pessina,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,13,Emerson Palmieri,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,14,Federico Chiesa,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,15,Francesco Acerbi,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,16,Bryan Cristante,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,20,Federico Bernardeschi,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,22,Giacomo Raspadori,Bench
+95a9ebd1,"Friday June 11, 2021",21:00,Italy ,a,23,Alessandro Bastoni,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,1,Hugo Lloris,Start
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,2,Benjamin Pavard,Start
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,3,Presnel Kimpembe,Start
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,4,Raphaël Varane,Start
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,6,Paul Pogba,Start
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,7,Antoine Griezmann,Start
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,10,Kylian Mbappé,Start
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,13,N'Golo Kanté,Start
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,14,Adrien Rabiot,Start
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,19,Karim Benzema,Start
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,21,Lucas Hernández,Start
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,16,Steve Mandanda,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,23,Mike Maignan,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,5,Clément Lenglet,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,8,Thomas Lemar,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,9,Olivier Giroud,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,11,Ousmane Dembélé,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,12,Corentin Tolisso,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,15,Kurt Zouma,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,18,Lucas Digne,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,20,Kingsley Coman,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,22,Wissam Ben Yedder,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,France,h,25,Jules Koundé,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,1,Manuel Neuer,Start
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,2,Antonio Rüdiger,Start
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,4,Matthias Ginter,Start
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,5,Mats Hummels,Start
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,6,Joshua Kimmich,Start
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,7,Kai Havertz,Start
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,8,Toni Kroos,Start
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,10,Serge Gnabry,Start
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,20,Robin Gosens,Start
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,21,İlkay Gündoğan,Start
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,25,Thomas Müller,Start
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,12,Bernd Leno,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,22,Kevin Trapp,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,3,Marcel Halstenberg,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,9,Kevin Volland,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,11,Timo Werner,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,15,Niklas Süle,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,16,Lukas Klostermann,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,17,Florian Neuhaus,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,19,Leroy Sané,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,23,Emre Can,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,24,Robin Koch,Bench
+95d34c87,"Tuesday June 15, 2021",21:00,Germany ,a,26,Christian Günter,Bench
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,1,Péter Gulácsi,Start
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,4,Attila Szalai,Start
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,5,Attila Fiola,Start
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,6,Willi Orban,Start
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,7,Loïc Nego,Start
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,8,Ádám Nagy,Start
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,9,Ádám Szalai,Start
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,13,András Schäfer,Start
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,15,László Kleinheisler,Start
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,20,Roland Sallai,Start
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,21,Endre Botka,Start
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,12,Dénes Dibusz,Bench
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,22,Ádám Bogdán,Bench
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,2,Ádám Lang,Bench
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,3,Ákos Kecskés,Bench
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,10,Tamás Cseri,Bench
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,11,Filip Holender,Bench
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,14,Gergő Lovrencsics,Bench
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,17,Roland Varga,Bench
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,18,Dávid Sigér,Bench
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,19,Kevin Varga,Bench
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,23,Nemanja Nikolić,Bench
+988198ba,"Saturday June 19, 2021",15:00,Hungary,h,24,Szabolcs Schön,Bench
+988198ba,"Saturday June 19, 2021",15:00,France ,a,1,Hugo Lloris,Start
+988198ba,"Saturday June 19, 2021",15:00,France ,a,2,Benjamin Pavard,Start
+988198ba,"Saturday June 19, 2021",15:00,France ,a,3,Presnel Kimpembe,Start
+988198ba,"Saturday June 19, 2021",15:00,France ,a,4,Raphaël Varane,Start
+988198ba,"Saturday June 19, 2021",15:00,France ,a,6,Paul Pogba,Start
+988198ba,"Saturday June 19, 2021",15:00,France ,a,7,Antoine Griezmann,Start
+988198ba,"Saturday June 19, 2021",15:00,France ,a,10,Kylian Mbappé,Start
+988198ba,"Saturday June 19, 2021",15:00,France ,a,13,N'Golo Kanté,Start
+988198ba,"Saturday June 19, 2021",15:00,France ,a,14,Adrien Rabiot,Start
+988198ba,"Saturday June 19, 2021",15:00,France ,a,18,Lucas Digne,Start
+988198ba,"Saturday June 19, 2021",15:00,France ,a,19,Karim Benzema,Start
+988198ba,"Saturday June 19, 2021",15:00,France ,a,16,Steve Mandanda,Bench
+988198ba,"Saturday June 19, 2021",15:00,France ,a,23,Mike Maignan,Bench
+988198ba,"Saturday June 19, 2021",15:00,France ,a,5,Clément Lenglet,Bench
+988198ba,"Saturday June 19, 2021",15:00,France ,a,8,Thomas Lemar,Bench
+988198ba,"Saturday June 19, 2021",15:00,France ,a,9,Olivier Giroud,Bench
+988198ba,"Saturday June 19, 2021",15:00,France ,a,11,Ousmane Dembélé,Bench
+988198ba,"Saturday June 19, 2021",15:00,France ,a,12,Corentin Tolisso,Bench
+988198ba,"Saturday June 19, 2021",15:00,France ,a,17,Moussa Sissoko,Bench
+988198ba,"Saturday June 19, 2021",15:00,France ,a,21,Lucas Hernández,Bench
+988198ba,"Saturday June 19, 2021",15:00,France ,a,24,Leo Dubois,Bench
+988198ba,"Saturday June 19, 2021",15:00,France ,a,25,Jules Koundé,Bench
+988198ba,"Saturday June 19, 2021",15:00,France ,a,26,Marcus Thuram,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,1,Manuel Neuer,Start
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,2,Antonio Rüdiger,Start
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,4,Matthias Ginter,Start
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,5,Mats Hummels,Start
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,6,Joshua Kimmich,Start
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,7,Kai Havertz,Start
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,8,Toni Kroos,Start
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,10,Serge Gnabry,Start
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,19,Leroy Sané,Start
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,20,Robin Gosens,Start
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,21,İlkay Gündoğan,Start
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,12,Bernd Leno,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,22,Kevin Trapp,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,3,Marcel Halstenberg,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,9,Kevin Volland,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,11,Timo Werner,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,14,Jamal Musiala,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,15,Niklas Süle,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,17,Florian Neuhaus,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,18,Leon Goretzka,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,23,Emre Can,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,24,Robin Koch,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Germany,h,25,Thomas Müller,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,1,Péter Gulácsi,Start
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,4,Attila Szalai,Start
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,5,Attila Fiola,Start
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,6,Willi Orban,Start
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,7,Loïc Nego,Start
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,8,Ádám Nagy,Start
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,9,Ádám Szalai,Start
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,13,András Schäfer,Start
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,15,László Kleinheisler,Start
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,20,Roland Sallai,Start
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,21,Endre Botka,Start
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,12,Dénes Dibusz,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,22,Ádám Bogdán,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,2,Ádám Lang,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,3,Ákos Kecskés,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,11,Filip Holender,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,14,Gergő Lovrencsics,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,17,Roland Varga,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,18,Dávid Sigér,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,19,Kevin Varga,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,23,Nemanja Nikolić,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,24,Szabolcs Schön,Bench
+a4888546,"Wednesday June 23, 2021",21:00,Hungary ,a,26,Bendegúz Bolla,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,1,Thibaut Courtois,Start
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,2,Toby Alderweireld,Start
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,3,Thomas Vermaelen,Start
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,5,Jan Vertonghen,Start
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,6,Axel Witsel,Start
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,7,Kevin De Bruyne,Start
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,8,Youri Tielemans,Start
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,9,Romelu Lukaku,Start
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,10,Eden Hazard,Start
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,15,Thomas Meunier,Start
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,16,Thorgan Hazard,Start
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,12,Simon Mignolet,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,13,Matz Sels,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,4,Dedryck Boyata,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,11,Yannick Carrasco,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,14,Dries Mertens,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,18,Jason Denayer,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,19,Leander Dendoncker,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,20,Christian Benteke,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,23,Michy Batshuayi,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,24,Leandro Trossard,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,25,Jeremy Doku,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Belgium,h,26,Dennis Praet,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,1,Rui Patrício,Start
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,3,Pepe,Start
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,4,Rúben Dias,Start
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,5,Raphaël Guerreiro,Start
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,7,Cristiano Ronaldo,Start
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,8,João Moutinho,Start
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,10,Bernardo Silva,Start
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,16,Renato Sanches,Start
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,20,Diogo Dalot,Start
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,21,Diogo Jota,Start
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,26,João Palhinha,Start
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,12,Anthony Lopes,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,22,Rui Silva,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,2,Nélson Semedo,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,6,José Fonte,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,9,André Silva,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,11,Bruno Fernandes,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,13,Danilo Pereira,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,18,Rúben Neves,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,19,Pedro Gonçalves,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,23,João Félix,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,24,Sérgio Oliveira,Bench
+ad36a434,"Sunday June 27, 2021",21:00,Portugal ,a,25,Nuno Mendes,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,13,Daniel Bachmann,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,2,Andreas Ulmer,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,3,Aleksandar Dragović,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,4,Martin Hinteregger,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,8,David Alaba,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,9,Marcel Sabitzer,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,19,Christoph Baumgartner,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,21,Stefan Lainer,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,23,Xaver Schlager,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,24,Konrad Laimer,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,25,Sasa Kalajdzic,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,1,Alexander Schlager,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,12,Pavao Pervan,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,6,Stefan Ilsanker,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,7,Marko Arnautović,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,10,Florian Grillitsch,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,11,Michael Gregoritsch,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,14,Julian Baumgartlinger,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,15,Philipp Lienhart,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,16,Christopher Trimmel,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,17,Louis Schaub,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,18,Alessandro Schöpf,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,Austria,h,22,Valentino Lazaro,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,1,Stole Dimitrievski,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,5,Arijan Ademi,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,6,Visar Musliu,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,8,Ezgjan Alioski,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,9,Aleksandar Trajkovski,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,10,Goran Pandev,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,13,Stefan Ristovski,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,14,Darko Velkovski,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,16,Boban Nikolov,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,17,Enis Bardhi,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,21,Elif Elmas,Start
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,12,Risto Jankov,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,22,Damjan Šiškovski,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,2,Egzon Bejtulai,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,4,Kire Ristevski,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,7,Ivan Tričkovski,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,11,Ferhan Hasani,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,15,Tihomir Kostadinov,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,19,Krste Velkoski,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,20,Stefan Spirovski,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,24,Daniel Avramovski,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,25,Darko Churlinov,Bench
+b47a0ea6,"Sunday June 13, 2021",19:00,North Macedonia ,a,26,Milan Ristovski,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,12,Danny Ward,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,4,Ben Davies,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,6,Joe Rodon,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,7,Joe Allen,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,10,Aaron Ramsey,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,11,Gareth Bale,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,13,Kieffer Moore,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,14,Connor Roberts,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,16,Joe Morrell,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,20,Daniel James,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,22,Chris Mepham,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,1,Wayne Hennessey,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,21,Adam Davies,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,2,Chris Gunter,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,3,Neco Williams,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,5,Tom Lockyer,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,8,Harry Wilson,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,9,Tyler Roberts,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,18,Jonny Williams,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,19,David Brooks,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,23,Dylan Levitt,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,24,Benjamin Cabango,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Wales,h,26,Matthew Smith,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,1,Kasper Schmeichel,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,3,Jannik Vestergaard,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,4,Simon Kjær,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,5,Joakim Mæhle,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,6,Andreas Christensen,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,8,Thomas Delaney,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,9,Martin Braithwaite,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,12,Kasper Dolberg,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,14,Mikkel Damsgaard,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,17,Jens Stryger Larsen,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,23,Pierre Højbjerg,Start
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,16,Jonas Lössl,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,22,Frederik Rønnow,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,2,Joachim Andersen,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,7,Robert Skov,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,11,Andreas Skov Olsen,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,13,Mathias Jørgensen,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,15,Christian Nørgaard,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,19,Jonas Wind,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,21,Andreas Cornelius,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,24,Mathias Jensen,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,25,Anders Christiansen,Bench
+b5659aa3,"Saturday June 26, 2021",18:00,Denmark ,a,26,Nicolai Boilesen,Bench
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,21,Gianluigi Donnarumma,Start
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,6,Marco Verratti,Start
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,8,Jorginho,Start
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,9,Andrea Belotti,Start
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,12,Matteo Pessina,Start
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,13,Emerson Palmieri,Start
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,14,Federico Chiesa,Start
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,19,Leonardo Bonucci,Start
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,20,Federico Bernardeschi,Start
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,23,Alessandro Bastoni,Start
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,25,Rafael Tolói,Start
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,1,Salvatore Sirigu,Bench
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,26,Alex Meret,Bench
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,2,Giovanni Di Lorenzo,Bench
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,4,Leonardo Spinazzola,Bench
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,5,Manuel Locatelli,Bench
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,7,Gaetano Castrovilli,Bench
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,10,Lorenzo Insigne,Bench
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,15,Francesco Acerbi,Bench
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,16,Bryan Cristante,Bench
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,17,Ciro Immobile,Bench
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,18,Nicolò Barella,Bench
+b756c626,"Sunday June 20, 2021",18:00,Italy,h,22,Giacomo Raspadori,Bench
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,12,Danny Ward,Start
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,2,Chris Gunter,Start
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,3,Neco Williams,Start
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,6,Joe Rodon,Start
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,7,Joe Allen,Start
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,10,Aaron Ramsey,Start
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,11,Gareth Bale,Start
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,14,Connor Roberts,Start
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,15,Ethan Ampadu,Start
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,16,Joe Morrell,Start
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,20,Daniel James,Start
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,1,Wayne Hennessey,Bench
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,21,Adam Davies,Bench
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,4,Ben Davies,Bench
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,5,Tom Lockyer,Bench
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,8,Harry Wilson,Bench
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,9,Tyler Roberts,Bench
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,13,Kieffer Moore,Bench
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,17,Rhys Norrington-Davies,Bench
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,18,Jonny Williams,Bench
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,19,David Brooks,Bench
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,22,Chris Mepham,Bench
+b756c626,"Sunday June 20, 2021",18:00,Wales ,a,23,Dylan Levitt,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,1,Péter Gulácsi,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,4,Attila Szalai,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,5,Attila Fiola,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,6,Willi Orban,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,8,Ádám Nagy,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,9,Ádám Szalai,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,13,András Schäfer,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,14,Gergő Lovrencsics,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,15,László Kleinheisler,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,20,Roland Sallai,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,21,Endre Botka,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,12,Dénes Dibusz,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,22,Ádám Bogdán,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,2,Ádám Lang,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,3,Ákos Kecskés,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,7,Loïc Nego,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,10,Tamás Cseri,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,17,Roland Varga,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,18,Dávid Sigér,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,19,Kevin Varga,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,23,Nemanja Nikolić,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,24,Szabolcs Schön,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Hungary,h,26,Bendegúz Bolla,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,1,Rui Patrício,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,2,Nélson Semedo,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,3,Pepe,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,4,Rúben Dias,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,5,Raphaël Guerreiro,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,7,Cristiano Ronaldo,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,10,Bernardo Silva,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,11,Bruno Fernandes,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,13,Danilo Pereira,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,14,William Carvalho,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,21,Diogo Jota,Start
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,12,Anthony Lopes,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,22,Rui Silva,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,6,José Fonte,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,8,João Moutinho,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,9,André Silva,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,15,Rafa Silva,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,16,Renato Sanches,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,18,Rúben Neves,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,19,Pedro Gonçalves,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,23,João Félix,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,24,Sérgio Oliveira,Bench
+ba500d70,"Tuesday June 15, 2021",18:00,Portugal ,a,25,Nuno Mendes,Bench
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,1,Lukáš Hrádecký,Start
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,2,Paulus Arajuuri,Start
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,3,Daniel O'Shaughnessy,Start
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,4,Joona Toivio,Start
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,6,Glen Kamara,Start
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,8,Robin Lod,Start
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,10,Teemu Pukki,Start
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,14,Tim Sparv,Start
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,18,Jere Uronen,Start
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,20,Joel Pohjanpalo,Start
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,22,Jukka Raitala,Start
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,12,Jesse Joronen,Bench
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,23,Anssi Jaakkola,Bench
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,5,Leo Väisänen,Bench
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,7,Robert Taylor,Bench
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,9,Fredrik Jensen,Bench
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,11,Rasmus Schüller,Bench
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,13,Pyry Soiri,Bench
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,17,Nikolai Alho,Bench
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,19,Joni Kauko,Bench
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,24,Onni Valakari,Bench
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,25,Robert Ivanov,Bench
+bd35edec,"Monday June 21, 2021",22:00,Finland,h,26,Marcus Forss,Bench
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,1,Thibaut Courtois,Start
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,3,Thomas Vermaelen,Start
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,4,Dedryck Boyata,Start
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,6,Axel Witsel,Start
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,7,Kevin De Bruyne,Start
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,9,Romelu Lukaku,Start
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,10,Eden Hazard,Start
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,18,Jason Denayer,Start
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,22,Nacer Chadli,Start
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,24,Leandro Trossard,Start
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,25,Jeremy Doku,Start
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,12,Simon Mignolet,Bench
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,13,Matz Sels,Bench
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,5,Jan Vertonghen,Bench
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,8,Youri Tielemans,Bench
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,11,Yannick Carrasco,Bench
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,14,Dries Mertens,Bench
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,15,Thomas Meunier,Bench
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,17,Hans Vanaken,Bench
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,19,Leander Dendoncker,Bench
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,20,Christian Benteke,Bench
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,23,Michy Batshuayi,Bench
+bd35edec,"Monday June 21, 2021",22:00,Belgium ,a,26,Dennis Praet,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,21,Gianluigi Donnarumma,Start
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,2,Giovanni Di Lorenzo,Start
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,4,Leonardo Spinazzola,Start
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,6,Marco Verratti,Start
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,8,Jorginho,Start
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,10,Lorenzo Insigne,Start
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,11,Domenico Berardi,Start
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,15,Francesco Acerbi,Start
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,17,Ciro Immobile,Start
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,18,Nicolò Barella,Start
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,19,Leonardo Bonucci,Start
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,1,Salvatore Sirigu,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,26,Alex Meret,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,5,Manuel Locatelli,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,9,Andrea Belotti,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,12,Matteo Pessina,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,13,Emerson Palmieri,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,14,Federico Chiesa,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,16,Bryan Cristante,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,20,Federico Bernardeschi,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,22,Giacomo Raspadori,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,23,Alessandro Bastoni,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Italy,h,25,Rafael Tolói,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,13,Daniel Bachmann,Start
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,3,Aleksandar Dragović,Start
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,4,Martin Hinteregger,Start
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,7,Marko Arnautović,Start
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,8,David Alaba,Start
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,9,Marcel Sabitzer,Start
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,10,Florian Grillitsch,Start
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,19,Christoph Baumgartner,Start
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,21,Stefan Lainer,Start
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,23,Xaver Schlager,Start
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,24,Konrad Laimer,Start
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,1,Alexander Schlager,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,12,Pavao Pervan,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,2,Andreas Ulmer,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,5,Stefan Posch,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,6,Stefan Ilsanker,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,11,Michael Gregoritsch,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,14,Julian Baumgartlinger,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,15,Philipp Lienhart,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,16,Christopher Trimmel,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,17,Louis Schaub,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,18,Alessandro Schöpf,Bench
+c2b13049,"Saturday June 26, 2021",20:00,Austria ,a,25,Sasa Kalajdzic,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,1,Kasper Schmeichel,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,4,Simon Kjær,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,5,Joakim Mæhle,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,6,Andreas Christensen,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,8,Thomas Delaney,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,9,Martin Braithwaite,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,10,Christian Eriksen,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,18,Daniel Wass,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,19,Jonas Wind,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,20,Yussuf Poulsen,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,23,Pierre Højbjerg,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,16,Jonas Lössl,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,22,Frederik Rønnow,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,2,Joachim Andersen,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,3,Jannik Vestergaard,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,11,Andreas Skov Olsen,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,12,Kasper Dolberg,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,14,Mikkel Damsgaard,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,15,Christian Nørgaard,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,17,Jens Stryger Larsen,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,21,Andreas Cornelius,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,24,Mathias Jensen,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Denmark,h,26,Nicolai Boilesen,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,1,Lukáš Hrádecký,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,2,Paulus Arajuuri,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,3,Daniel O'Shaughnessy,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,4,Joona Toivio,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,6,Glen Kamara,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,8,Robin Lod,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,10,Teemu Pukki,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,14,Tim Sparv,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,18,Jere Uronen,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,20,Joel Pohjanpalo,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,22,Jukka Raitala,Start
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,12,Jesse Joronen,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,23,Anssi Jaakkola,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,5,Leo Väisänen,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,7,Robert Taylor,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,9,Fredrik Jensen,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,11,Rasmus Schüller,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,13,Pyry Soiri,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,15,Niko Hämäläinen,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,19,Joni Kauko,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,21,Lassi Lappalainen,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,25,Robert Ivanov,Bench
+c3c2ffa2,"Saturday June 12, 2021",18:00,Finland ,a,26,Marcus Forss,Bench
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,1,Robin Olsen,Start
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,2,Mikael Lustig,Start
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,3,Victor Lindelöf,Start
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,6,Ludwig Augustinsson,Start
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,7,Seb Larsson,Start
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,8,Albin Ekdal,Start
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,9,Marcus Berg,Start
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,10,Emil Forsberg,Start
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,11,Alexander Isak,Start
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,20,Kristoffer Olsson,Start
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,24,Marcus Danielsson,Start
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,12,Karl-Johan Johnsson,Bench
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,23,Kristoffer Nordfeldt,Bench
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,5,Pierre Bengtsson,Bench
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,13,Gustav Svensson,Bench
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,14,Filip Helander,Bench
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,15,Ken Sema,Bench
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,16,Emil Krafth,Bench
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,17,Viktor Claesson,Bench
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,18,Pontus Jansson,Bench
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,21,Dejan Kulusevski,Bench
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,22,Robin Quaison,Bench
+c6533f76,"Friday June 18, 2021",14:00,Sweden,h,26,Jens Cajuste,Bench
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,1,Martin Dúbravka,Start
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,2,Peter Pekarík,Start
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,5,Ľubomír Šatka,Start
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,8,Ondrej Duda,Start
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,13,Patrik Hrošovský,Start
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,14,Milan Škriniar,Start
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,15,Tomáš Hubočan,Start
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,17,Marek Hamšík,Start
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,19,Juraj Kucka,Start
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,20,Róbert Mak,Start
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,24,Martin Koscelník,Start
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,12,Dušan Kuciak,Bench
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,23,Marek Rodák,Bench
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,4,Martin Valjent,Bench
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,6,Ján Greguš,Bench
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,7,Vladimír Weiss,Bench
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,9,Róbert Boženík,Bench
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,11,László Bénes,Bench
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,16,Dávid Hancko,Bench
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,18,Lukáš Haraslín,Bench
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,21,Michal Ďuriš,Bench
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,22,Stanislav Lobotka,Bench
+c6533f76,"Friday June 18, 2021",14:00,Slovakia ,a,25,Jakub Hromada,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,21,Gianluigi Donnarumma,Start
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,2,Giovanni Di Lorenzo,Start
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,3,Giorgio Chiellini,Start
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,4,Leonardo Spinazzola,Start
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,5,Manuel Locatelli,Start
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,8,Jorginho,Start
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,10,Lorenzo Insigne,Start
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,11,Domenico Berardi,Start
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,17,Ciro Immobile,Start
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,18,Nicolò Barella,Start
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,19,Leonardo Bonucci,Start
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,1,Salvatore Sirigu,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,26,Alex Meret,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,9,Andrea Belotti,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,12,Matteo Pessina,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,13,Emerson Palmieri,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,14,Federico Chiesa,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,15,Francesco Acerbi,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,16,Bryan Cristante,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,20,Federico Bernardeschi,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,22,Giacomo Raspadori,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,23,Alessandro Bastoni,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Italy,h,25,Rafael Tolói,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,1,Yann Sommer,Start
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,2,Kevin Mbabu,Start
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,4,Nico Elvedi,Start
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,5,Manuel Akanji,Start
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,7,Breel Embolo,Start
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,8,Remo Freuler,Start
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,9,Haris Seferović,Start
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,10,Granit Xhaka,Start
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,13,Ricardo Rodríguez,Start
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,22,Fabian Schär,Start
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,23,Xherdan Shaqiri,Start
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,12,Yvon Mvogo,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,21,Gregor Kobel,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,3,Silvan Widmer,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,6,Denis Zakaria,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,11,Ruben Vargas,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,14,Steven Zuber,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,15,Djibril Sow,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,16,Christian Fassnacht,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,17,Loris Benito,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,18,Admir Mehmedi,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,19,Mario Gavranović,Bench
+caa84313,"Wednesday June 16, 2021",21:00,Switzerland ,a,25,Eray Cömert,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,1,Wojciech Szczęsny,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,5,Jan Bednarek,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,8,Karol Linetty,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,9,Robert Lewandowski,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,10,Grzegorz Krychowiak,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,13,Maciej Rybus,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,14,Mateusz Klich,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,15,Kamil Glik,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,18,Bartosz Bereszyński,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,20,Piotr Zieliński,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,21,Kamil Jóźwiak,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,12,Łukasz Skorupski,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,22,Łukasz Fabiański,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,3,Paweł Dawidowicz,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,4,Tomasz Kędziora,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,6,Kacper Kozłowski,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,11,Karol Świderski,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,16,Jakub Moder,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,17,Przemysław Płacheta,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,19,Przemysław Frankowski,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,24,Jakub Świerczok,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,25,Michał Helik,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Poland,h,26,Tymoteusz Puchacz,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,1,Martin Dúbravka,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,2,Peter Pekarík,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,5,Ľubomír Šatka,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,8,Ondrej Duda,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,14,Milan Škriniar,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,15,Tomáš Hubočan,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,17,Marek Hamšík,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,18,Lukáš Haraslín,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,19,Juraj Kucka,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,20,Róbert Mak,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,25,Jakub Hromada,Start
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,12,Dušan Kuciak,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,23,Marek Rodák,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,3,Denis Vavro,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,6,Ján Greguš,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,7,Vladimír Weiss,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,10,Tomáš Suslov,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,11,László Bénes,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,13,Patrik Hrošovský,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,16,Dávid Hancko,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,21,Michal Ďuriš,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,22,Stanislav Lobotka,Bench
+d35ad7a8,"Monday June 14, 2021",17:00,Slovakia ,a,24,Martin Koscelník,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,12,Danny Ward,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,4,Ben Davies,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,6,Joe Rodon,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,7,Joe Allen,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,10,Aaron Ramsey,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,11,Gareth Bale,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,13,Kieffer Moore,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,14,Connor Roberts,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,16,Joe Morrell,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,20,Daniel James,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,22,Chris Mepham,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,1,Wayne Hennessey,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,21,Adam Davies,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,2,Chris Gunter,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,3,Neco Williams,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,5,Tom Lockyer,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,8,Harry Wilson,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,9,Tyler Roberts,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,15,Ethan Ampadu,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,17,Rhys Norrington-Davies,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,18,Jonny Williams,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,19,David Brooks,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Wales,h,23,Dylan Levitt,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,1,Yann Sommer,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,2,Kevin Mbabu,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,4,Nico Elvedi,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,5,Manuel Akanji,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,7,Breel Embolo,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,8,Remo Freuler,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,9,Haris Seferović,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,10,Granit Xhaka,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,13,Ricardo Rodríguez,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,22,Fabian Schär,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,23,Xherdan Shaqiri,Start
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,12,Yvon Mvogo,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,21,Jonas Omlin,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,3,Silvan Widmer,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,6,Denis Zakaria,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,11,Ruben Vargas,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,14,Steven Zuber,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,15,Djibril Sow,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,16,Christian Fassnacht,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,17,Loris Benito,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,18,Admir Mehmedi,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,19,Mario Gavranović,Bench
+d9eaa85c,"Saturday June 12, 2021",17:00,Switzerland ,a,25,Eray Cömert,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,1,Robin Olsen,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,2,Mikael Lustig,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,3,Victor Lindelöf,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,6,Ludwig Augustinsson,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,7,Seb Larsson,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,8,Albin Ekdal,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,10,Emil Forsberg,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,11,Alexander Isak,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,20,Kristoffer Olsson,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,21,Dejan Kulusevski,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,24,Marcus Danielsson,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,12,Karl-Johan Johnsson,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,23,Kristoffer Nordfeldt,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,5,Pierre Bengtsson,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,9,Marcus Berg,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,13,Gustav Svensson,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,14,Filip Helander,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,15,Ken Sema,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,16,Emil Krafth,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,17,Viktor Claesson,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,18,Pontus Jansson,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,22,Robin Quaison,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Sweden,h,26,Jens Cajuste,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,1,Heorhiy Bushchan,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,4,Serhiy Kryvtsov,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,5,Serhiy Sydorchuk,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,6,Taras Stepanenko,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,7,Andriy Yarmolenko,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,9,Roman Yaremchuk,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,10,Mykola Shaparenko,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,13,Illia Zabarnyi,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,17,Oleksandr Zinchenko,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,21,Oleksandr Karavayev,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,22,Mykola Matviyenko,Start
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,12,Andriy Pyatov,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,23,Anatolii Trubin,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,2,Eduard Sobol,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,8,Ruslan Malinovskyi,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,11,Marlos,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,14,Yevhen Makarenko,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,15,Viktor Tsyhankov,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,16,Vitaliy Mykolenko,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,18,Roman Bezus,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,19,Artem Besyedin,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,24,Oleksandr Tymchyk,Bench
+e07bc7d3,"Tuesday June 29, 2021",20:00,Ukraine ,a,26,Artem Dovbyk,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,1,Heorhiy Bushchan,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,6,Taras Stepanenko,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,7,Andriy Yarmolenko,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,8,Ruslan Malinovskyi,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,9,Roman Yaremchuk,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,10,Mykola Shaparenko,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,13,Illia Zabarnyi,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,16,Vitaliy Mykolenko,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,17,Oleksandr Zinchenko,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,21,Oleksandr Karavayev,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,22,Mykola Matviyenko,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,12,Andriy Pyatov,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,23,Anatolii Trubin,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,2,Eduard Sobol,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,3,Heorhii Sudakov,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,4,Serhiy Kryvtsov,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,5,Serhiy Sydorchuk,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,11,Marlos,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,14,Yevhen Makarenko,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,15,Viktor Tsyhankov,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,19,Artem Besyedin,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,24,Oleksandr Tymchyk,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,Ukraine,h,26,Artem Dovbyk,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,1,Stole Dimitrievski,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,5,Arijan Ademi,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,6,Visar Musliu,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,8,Ezgjan Alioski,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,10,Goran Pandev,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,13,Stefan Ristovski,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,14,Darko Velkovski,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,16,Boban Nikolov,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,17,Enis Bardhi,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,20,Stefan Spirovski,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,21,Elif Elmas,Start
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,12,Risto Jankov,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,22,Damjan Šiškovski,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,2,Egzon Bejtulai,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,4,Kire Ristevski,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,7,Ivan Tričkovski,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,9,Aleksandar Trajkovski,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,11,Ferhan Hasani,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,15,Tihomir Kostadinov,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,23,Marjan Radeski,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,24,Daniel Avramovski,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,25,Darko Churlinov,Bench
+e0eed6e8,"Thursday June 17, 2021",16:00,North Macedonia ,a,26,Milan Ristovski,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,1,Rui Patrício,Start
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,2,Nélson Semedo,Start
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,3,Pepe,Start
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,4,Rúben Dias,Start
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,5,Raphaël Guerreiro,Start
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,7,Cristiano Ronaldo,Start
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,10,Bernardo Silva,Start
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,11,Bruno Fernandes,Start
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,13,Danilo Pereira,Start
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,14,William Carvalho,Start
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,21,Diogo Jota,Start
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,12,Anthony Lopes,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,22,Rui Silva,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,6,José Fonte,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,8,João Moutinho,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,9,André Silva,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,15,Rafa Silva,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,16,Renato Sanches,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,17,Gonçalo Guedes,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,18,Rúben Neves,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,19,Pedro Gonçalves,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,20,Diogo Dalot,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Portugal,h,26,João Palhinha,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,1,Manuel Neuer,Start
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,2,Antonio Rüdiger,Start
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,4,Matthias Ginter,Start
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,5,Mats Hummels,Start
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,6,Joshua Kimmich,Start
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,7,Kai Havertz,Start
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,8,Toni Kroos,Start
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,10,Serge Gnabry,Start
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,20,Robin Gosens,Start
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,21,İlkay Gündoğan,Start
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,25,Thomas Müller,Start
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,12,Bernd Leno,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,22,Kevin Trapp,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,3,Marcel Halstenberg,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,9,Kevin Volland,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,11,Timo Werner,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,15,Niklas Süle,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,17,Florian Neuhaus,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,18,Leon Goretzka,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,19,Leroy Sané,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,23,Emre Can,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,24,Robin Koch,Bench
+e33c4403,"Saturday June 19, 2021",18:00,Germany ,a,26,Christian Günter,Bench
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,1,Thibaut Courtois,Start
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,2,Toby Alderweireld,Start
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,4,Dedryck Boyata,Start
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,5,Jan Vertonghen,Start
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,8,Youri Tielemans,Start
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,9,Romelu Lukaku,Start
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,11,Yannick Carrasco,Start
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,14,Dries Mertens,Start
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,16,Thorgan Hazard,Start
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,19,Leander Dendoncker,Start
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,21,Timothy Castagne,Start
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,12,Simon Mignolet,Bench
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,13,Matz Sels,Bench
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,3,Thomas Vermaelen,Bench
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,10,Eden Hazard,Bench
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,15,Thomas Meunier,Bench
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,18,Jason Denayer,Bench
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,20,Christian Benteke,Bench
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,22,Nacer Chadli,Bench
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,23,Michy Batshuayi,Bench
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,24,Leandro Trossard,Bench
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,25,Jeremy Doku,Bench
+e594174b,"Saturday June 12, 2021",22:00,Belgium,h,26,Dennis Praet,Bench
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,1,Anton Shunin,Start
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,2,Mário Fernandes,Start
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,5,Andrei Semyonov,Start
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,7,Magomed Ozdoyev,Start
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,8,Dmitri Barinov,Start
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,11,Roman Zobnin,Start
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,14,Georgi Dzhikiya,Start
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,17,Aleksandr Golovin,Start
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,18,Yuri Zhirkov,Start
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,22,Artem Dzyuba,Start
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,23,Daler Kuzyaev,Start
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,12,Yuri Dyupin,Bench
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,16,Matvei Safonov,Bench
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,3,Igor Diveev,Bench
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,4,Vyacheslav Karavayev,Bench
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,6,Denis Cheryshev,Bench
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,9,Aleksandr Sobolev,Bench
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,10,Anton Zabolotny,Bench
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,15,Aleksei Miranchuk,Bench
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,19,Rifat Zhemaletdinov,Bench
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,20,Aleksei Ionov,Bench
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,24,Roman Yevgenyev,Bench
+e594174b,"Saturday June 12, 2021",22:00,Russia ,a,26,Maksim Mukhin,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,1,Robin Olsen,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,2,Mikael Lustig,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,3,Victor Lindelöf,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,6,Ludwig Augustinsson,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,7,Seb Larsson,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,8,Albin Ekdal,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,10,Emil Forsberg,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,11,Alexander Isak,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,20,Kristoffer Olsson,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,22,Robin Quaison,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,24,Marcus Danielsson,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,12,Karl-Johan Johnsson,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,23,Kristoffer Nordfeldt,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,5,Pierre Bengtsson,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,9,Marcus Berg,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,13,Gustav Svensson,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,14,Filip Helander,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,15,Ken Sema,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,16,Emil Krafth,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,17,Viktor Claesson,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,18,Pontus Jansson,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,21,Dejan Kulusevski,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Sweden,h,26,Jens Cajuste,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,1,Wojciech Szczęsny,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,5,Jan Bednarek,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,9,Robert Lewandowski,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,10,Grzegorz Krychowiak,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,11,Karol Świderski,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,14,Mateusz Klich,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,15,Kamil Glik,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,18,Bartosz Bereszyński,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,20,Piotr Zieliński,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,21,Kamil Jóźwiak,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,26,Tymoteusz Puchacz,Start
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,12,Łukasz Skorupski,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,22,Łukasz Fabiański,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,3,Paweł Dawidowicz,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,4,Tomasz Kędziora,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,6,Kacper Kozłowski,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,8,Karol Linetty,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,13,Maciej Rybus,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,17,Przemysław Płacheta,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,19,Przemysław Frankowski,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,23,Dawid Kownacki,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,24,Jakub Świerczok,Bench
+ee6087f4,"Wednesday June 23, 2021",17:00,Poland ,a,25,Michał Helik,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,23,Uğurcan Çakır,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,2,Zeki Çelik,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,4,Çağlar Söyüncü,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,5,Okay Yokuşlu,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,6,Ozan Tufan,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,7,Cengiz Ünder,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,9,Kenan Karaman,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,10,Hakan Çalhanoğlu,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,13,Umut Meraş,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,17,Burak Yılmaz,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,22,Kaan Ayhan,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,1,Mert Günok,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,12,Altay Bayındır,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,3,Merih Demiral,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,8,Dorukhan Toköz,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,11,Yusuf Yazıcı,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,14,Taylan Antalyalı,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,15,Ozan Kabak,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,19,Orkun Kökçü,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,21,İrfan Kahveci,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,24,Kerem Aktürkoğlu,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,25,Mert Müldür,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Turkey,h,26,Halil Dervişoğlu,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,12,Danny Ward,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,4,Ben Davies,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,6,Joe Rodon,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,7,Joe Allen,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,10,Aaron Ramsey,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,11,Gareth Bale,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,13,Kieffer Moore,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,14,Connor Roberts,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,16,Joe Morrell,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,20,Daniel James,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,22,Chris Mepham,Start
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,1,Wayne Hennessey,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,21,Adam Davies,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,2,Chris Gunter,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,3,Neco Williams,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,5,Tom Lockyer,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,8,Harry Wilson,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,9,Tyler Roberts,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,15,Ethan Ampadu,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,17,Rhys Norrington-Davies,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,18,Jonny Williams,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,19,David Brooks,Bench
+f09b64db,"Wednesday June 16, 2021",20:00,Wales ,a,23,Dylan Levitt,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,1,Maarten Stekelenburg,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,3,Matthijs de Ligt,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,6,Stefan de Vrij,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,8,Georginio Wijnaldum,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,10,Memphis Depay,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,12,Patrick van Aanholt,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,15,Marten de Roon,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,17,Daley Blind,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,19,Wout Weghorst,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,21,Frenkie de Jong,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,22,Denzel Dumfries,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,13,Tim Krul,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,23,Marco Bizot,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,2,Joël Veltman,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,4,Nathan Aké,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,5,Owen Wijndal,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,7,Steven Berghuis,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,9,Luuk de Jong,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,11,Quincy Promes,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,14,Davy Klaassen,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,16,Ryan Gravenberch,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,18,Donyell Malen,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Netherlands,h,25,Jurrien Timber,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,13,Daniel Bachmann,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,2,Andreas Ulmer,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,3,Aleksandar Dragović,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,4,Martin Hinteregger,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,8,David Alaba,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,9,Marcel Sabitzer,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,11,Michael Gregoritsch,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,19,Christoph Baumgartner,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,21,Stefan Lainer,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,23,Xaver Schlager,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,24,Konrad Laimer,Start
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,1,Alexander Schlager,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,12,Pavao Pervan,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,6,Stefan Ilsanker,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,10,Florian Grillitsch,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,15,Philipp Lienhart,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,16,Christopher Trimmel,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,17,Louis Schaub,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,18,Alessandro Schöpf,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,20,Karim Onisiwo,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,22,Valentino Lazaro,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,25,Sasa Kalajdzic,Bench
+f3d39a29,"Thursday June 17, 2021",21:00,Austria ,a,26,Marco Friedl,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,1,Yann Sommer,Start
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,3,Silvan Widmer,Start
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,4,Nico Elvedi,Start
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,5,Manuel Akanji,Start
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,7,Breel Embolo,Start
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,8,Remo Freuler,Start
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,9,Haris Seferović,Start
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,10,Granit Xhaka,Start
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,13,Ricardo Rodríguez,Start
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,14,Steven Zuber,Start
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,23,Xherdan Shaqiri,Start
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,12,Yvon Mvogo,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,21,Gregor Kobel,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,2,Kevin Mbabu,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,6,Denis Zakaria,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,11,Ruben Vargas,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,15,Djibril Sow,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,16,Christian Fassnacht,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,17,Loris Benito,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,18,Admir Mehmedi,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,19,Mario Gavranović,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,22,Fabian Schär,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Switzerland,h,25,Eray Cömert,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,23,Uğurcan Çakır,Start
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,2,Zeki Çelik,Start
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,3,Merih Demiral,Start
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,4,Çağlar Söyüncü,Start
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,6,Ozan Tufan,Start
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,7,Cengiz Ünder,Start
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,10,Hakan Çalhanoğlu,Start
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,17,Burak Yılmaz,Start
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,21,İrfan Kahveci,Start
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,22,Kaan Ayhan,Start
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,25,Mert Müldür,Start
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,1,Mert Günok,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,12,Altay Bayındır,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,5,Okay Yokuşlu,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,8,Dorukhan Toköz,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,9,Kenan Karaman,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,11,Yusuf Yazıcı,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,14,Taylan Antalyalı,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,15,Ozan Kabak,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,16,Enes Ünal,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,18,Rıdvan Yılmaz,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,19,Orkun Kökçü,Bench
+fa85a731,"Sunday June 20, 2021",20:00,Turkey ,a,26,Halil Dervişoğlu,Bench
